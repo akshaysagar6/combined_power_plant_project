@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from pickle import load
 import numpy as np
-pip install xgboost
+from xgboost import XGBRegressor
 
 st.title('Combined Cycle Power Plant')
 st.subheader('Regression Model To Predict The Energy Generated')
