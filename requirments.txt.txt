@@ -4,3 +4,4 @@ python == 3.11.4
 pickle == 4.0
 pandas == 1.5.3
 xgboost == 2.0.1
+matplotlib == 3.7.1
