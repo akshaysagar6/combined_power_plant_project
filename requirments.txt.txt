@@ -3,3 +3,4 @@ streamlit == version 1.28.2
 python == version 3.11.4
 pickle == version 4.0
 pandas == version 1.5.3
+scikit-learn == version 1.2.2
