@@ -1,0 +1,5 @@
+numpy ==version  1.24.3
+streamlit == version 1.28.2
+python == version 3.11.4
+pickle == version 4.0
+pandas == version 1.5.3
