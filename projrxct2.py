@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 from pickle import load
 import numpy as np
-from streamlit_option_menu import option_menu
 
 
 st.title('Combined Cycle Power Plant')
